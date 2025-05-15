@@ -1,179 +1,179 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://test.postalgic.app/</loc>
-        <lastmod>2025-05-15T02:47:12.999Z</lastmod>
+        <loc>https://amiantos.github.io/</loc>
+        <lastmod>2025-05-15T02:49:14.499Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://test.postalgic.app/archives/</loc>
-        <lastmod>2025-05-15T02:47:12.999Z</lastmod>
+        <loc>https://amiantos.github.io/archives/</loc>
+        <lastmod>2025-05-15T02:49:14.499Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://test.postalgic.app/tags/</loc>
-        <lastmod>2025-05-15T02:47:12.999Z</lastmod>
+        <loc>https://amiantos.github.io/tags/</loc>
+        <lastmod>2025-05-15T02:49:14.499Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://test.postalgic.app/categories/</loc>
-        <lastmod>2025-05-15T02:47:12.999Z</lastmod>
+        <loc>https://amiantos.github.io/categories/</loc>
+        <lastmod>2025-05-15T02:49:14.499Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.7</priority>
     </url>
     
     <url>
-        <loc>https://test.postalgic.app/2025/05/10/multiple-photos/</loc>
+        <loc>https://amiantos.github.io/2025/05/10/multiple-photos/</loc>
         <lastmod>2025-05-10T09:12:47.059Z</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://test.postalgic.app/2025/05/10/photos/</loc>
+        <loc>https://amiantos.github.io/2025/05/10/photos/</loc>
         <lastmod>2025-05-10T09:08:17.297Z</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://test.postalgic.app/2025/05/09/asdasdasdasfasfasfafsasfsaf/</loc>
+        <loc>https://amiantos.github.io/2025/05/09/asdasdasdasfasfasfafsasfsaf/</loc>
         <lastmod>2025-05-10T02:23:52.550Z</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://test.postalgic.app/2025/05/09/hey-chance/</loc>
+        <loc>https://amiantos.github.io/2025/05/09/hey-chance/</loc>
         <lastmod>2025-05-10T02:12:05.200Z</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://test.postalgic.app/2025/05/09/test-2/</loc>
+        <loc>https://amiantos.github.io/2025/05/09/test-2/</loc>
         <lastmod>2025-05-09T22:02:17.516Z</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://test.postalgic.app/2025/05/04/tests/</loc>
+        <loc>https://amiantos.github.io/2025/05/04/tests/</loc>
         <lastmod>2025-05-05T05:34:01.614Z</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://test.postalgic.app/2025/04/26/yay-new-templating-system-using-mustache/</loc>
+        <loc>https://amiantos.github.io/2025/04/26/yay-new-templating-system-using-mustache/</loc>
         <lastmod>2025-04-26T21:44:02.721Z</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://test.postalgic.app/2025/04/26/hello/</loc>
+        <loc>https://amiantos.github.io/2025/04/26/hello/</loc>
         <lastmod>2025-04-26T18:19:26.324Z</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://test.postalgic.app/2025/04/25/new-post-2/</loc>
+        <loc>https://amiantos.github.io/2025/04/25/new-post-2/</loc>
         <lastmod>2025-04-25T09:09:41.500Z</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://test.postalgic.app/2025/04/25/new-post/</loc>
+        <loc>https://amiantos.github.io/2025/04/25/new-post/</loc>
         <lastmod>2025-04-25T09:07:47.874Z</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://test.postalgic.app/2025/04/24/egh/</loc>
+        <loc>https://amiantos.github.io/2025/04/24/egh/</loc>
         <lastmod>2025-04-24T08:59:23.971Z</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://test.postalgic.app/2025/04/23/mike-wood-whose-leapfrog-toys-taught-a/</loc>
+        <loc>https://amiantos.github.io/2025/04/23/mike-wood-whose-leapfrog-toys-taught-a/</loc>
         <lastmod>2025-04-23T09:13:16.752Z</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://test.postalgic.app/2025/04/23/creeping-closer-to-jesus/</loc>
+        <loc>https://amiantos.github.io/2025/04/23/creeping-closer-to-jesus/</loc>
         <lastmod>2025-04-23T08:25:01.807Z</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://test.postalgic.app/2025/04/23/another-test/</loc>
+        <loc>https://amiantos.github.io/2025/04/23/another-test/</loc>
         <lastmod>2025-04-23T08:02:34.324Z</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://test.postalgic.app/2025/04/23/who-am-i/</loc>
+        <loc>https://amiantos.github.io/2025/04/23/who-am-i/</loc>
         <lastmod>2025-04-23T08:00:07.072Z</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://test.postalgic.app/2025/04/21/test/</loc>
+        <loc>https://amiantos.github.io/2025/04/21/test/</loc>
         <lastmod>2025-04-21T23:52:40.548Z</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://test.postalgic.app/2025/04/20/new-test-post/</loc>
+        <loc>https://amiantos.github.io/2025/04/20/new-test-post/</loc>
         <lastmod>2025-04-21T05:17:50.384Z</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://test.postalgic.app/2025/04/20/test-post-2/</loc>
+        <loc>https://amiantos.github.io/2025/04/20/test-post-2/</loc>
         <lastmod>2025-04-21T05:16:07.690Z</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://test.postalgic.app/2025/04/20/test-post/</loc>
+        <loc>https://amiantos.github.io/2025/04/20/test-post/</loc>
         <lastmod>2025-04-21T04:54:51.674Z</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     
     <url>
-        <loc>https://test.postalgic.app/tags/test-2/</loc>
-        <lastmod>2025-05-15T02:47:13Z</lastmod>
+        <loc>https://amiantos.github.io/tags/test-2/</loc>
+        <lastmod>2025-05-15T02:49:14Z</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>https://test.postalgic.app/tags/test/</loc>
-        <lastmod>2025-05-15T02:47:13Z</lastmod>
+        <loc>https://amiantos.github.io/tags/test/</loc>
+        <lastmod>2025-05-15T02:49:14Z</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>https://test.postalgic.app/categories/poop/</loc>
-        <lastmod>2025-05-15T02:47:13Z</lastmod>
+        <loc>https://amiantos.github.io/categories/test-4/</loc>
+        <lastmod>2025-05-15T02:49:14Z</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>https://test.postalgic.app/categories/test-4/</loc>
-        <lastmod>2025-05-15T02:47:13Z</lastmod>
+        <loc>https://amiantos.github.io/categories/test-3/</loc>
+        <lastmod>2025-05-15T02:49:14Z</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>https://test.postalgic.app/categories/tests/</loc>
-        <lastmod>2025-05-15T02:47:13Z</lastmod>
+        <loc>https://amiantos.github.io/categories/poop/</loc>
+        <lastmod>2025-05-15T02:49:14Z</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>https://test.postalgic.app/categories/test-3/</loc>
-        <lastmod>2025-05-15T02:47:13Z</lastmod>
+        <loc>https://amiantos.github.io/categories/tests/</loc>
+        <lastmod>2025-05-15T02:49:14Z</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>

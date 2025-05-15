@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://test.postalgic.app/sitemap.xml
+Sitemap: https://amiantos.github.io/sitemap.xml

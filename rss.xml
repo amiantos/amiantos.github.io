@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:base="https://test.postalgic.app/">
+<feed xmlns="http://www.w3.org/2005/Atom" xml:base="https://amiantos.github.io/">
     <title>Test Blog</title>
-    <link href="https://test.postalgic.app/" rel="alternate" type="text/html" />
-    <link href="https://test.postalgic.app/rss.xml" rel="self" type="application/atom+xml" />
-    <id>https://test.postalgic.app/</id>
-    <updated>2025-05-15T02:47:12.993Z</updated>
+    <link href="https://amiantos.github.io/" rel="alternate" type="text/html" />
+    <link href="https://amiantos.github.io/rss.xml" rel="self" type="application/atom+xml" />
+    <id>https://amiantos.github.io/</id>
+    <updated>2025-05-15T02:49:14.493Z</updated>
     <subtitle>Just testing things out</subtitle>
     <author>
         <name>Seymour Butts</name>
@@ -15,8 +15,8 @@
     
     <entry>
         <title>Multiple Photos</title>
-        <link href="https://test.postalgic.app/2025/05/10/multiple-photos/" rel="alternate" type="text/html" />
-        <id>https://test.postalgic.app/2025/05/10/multiple-photos/</id>
+        <link href="https://amiantos.github.io/2025/05/10/multiple-photos/" rel="alternate" type="text/html" />
+        <id>https://amiantos.github.io/2025/05/10/multiple-photos/</id>
         <published>2025-05-10T09:12:47.059Z</published>
         <updated>2025-05-10T09:12:47.059Z</updated>
         <author>
@@ -59,8 +59,8 @@
     </entry>
     <entry>
         <title>Photos?</title>
-        <link href="https://test.postalgic.app/2025/05/10/photos/" rel="alternate" type="text/html" />
-        <id>https://test.postalgic.app/2025/05/10/photos/</id>
+        <link href="https://amiantos.github.io/2025/05/10/photos/" rel="alternate" type="text/html" />
+        <id>https://amiantos.github.io/2025/05/10/photos/</id>
         <published>2025-05-10T09:08:17.297Z</published>
         <updated>2025-05-10T09:08:17.297Z</updated>
         <author>
@@ -77,8 +77,8 @@
     </entry>
     <entry>
         <title>Asdasdasdasfasfasfafsasfsaf</title>
-        <link href="https://test.postalgic.app/2025/05/09/asdasdasdasfasfasfafsasfsaf/" rel="alternate" type="text/html" />
-        <id>https://test.postalgic.app/2025/05/09/asdasdasdasfasfasfafsasfsaf/</id>
+        <link href="https://amiantos.github.io/2025/05/09/asdasdasdasfasfasfafsasfsaf/" rel="alternate" type="text/html" />
+        <id>https://amiantos.github.io/2025/05/09/asdasdasdasfasfasfafsasfsaf/</id>
         <published>2025-05-10T02:23:52.550Z</published>
         <updated>2025-05-10T02:23:52.550Z</updated>
         <author>
@@ -90,8 +90,8 @@
     </entry>
     <entry>
         <title>Hey, Chance!</title>
-        <link href="https://test.postalgic.app/2025/05/09/hey-chance/" rel="alternate" type="text/html" />
-        <id>https://test.postalgic.app/2025/05/09/hey-chance/</id>
+        <link href="https://amiantos.github.io/2025/05/09/hey-chance/" rel="alternate" type="text/html" />
+        <id>https://amiantos.github.io/2025/05/09/hey-chance/</id>
         <published>2025-05-10T02:12:05.200Z</published>
         <updated>2025-05-10T02:12:05.200Z</updated>
         <author>
@@ -103,8 +103,8 @@
     </entry>
     <entry>
         <title>Test</title>
-        <link href="https://test.postalgic.app/2025/05/09/test-2/" rel="alternate" type="text/html" />
-        <id>https://test.postalgic.app/2025/05/09/test-2/</id>
+        <link href="https://amiantos.github.io/2025/05/09/test-2/" rel="alternate" type="text/html" />
+        <id>https://amiantos.github.io/2025/05/09/test-2/</id>
         <published>2025-05-09T22:02:17.516Z</published>
         <updated>2025-05-09T22:02:17.516Z</updated>
         <author>
@@ -119,8 +119,8 @@
     </entry>
     <entry>
         <title>Tests</title>
-        <link href="https://test.postalgic.app/2025/05/04/tests/" rel="alternate" type="text/html" />
-        <id>https://test.postalgic.app/2025/05/04/tests/</id>
+        <link href="https://amiantos.github.io/2025/05/04/tests/" rel="alternate" type="text/html" />
+        <id>https://amiantos.github.io/2025/05/04/tests/</id>
         <published>2025-05-05T05:34:01.614Z</published>
         <updated>2025-05-05T05:34:01.614Z</updated>
         <author>
@@ -132,8 +132,8 @@
     </entry>
     <entry>
         <title>Yay, new templating system using Mustache!</title>
-        <link href="https://test.postalgic.app/2025/04/26/yay-new-templating-system-using-mustache/" rel="alternate" type="text/html" />
-        <id>https://test.postalgic.app/2025/04/26/yay-new-templating-system-using-mustache/</id>
+        <link href="https://amiantos.github.io/2025/04/26/yay-new-templating-system-using-mustache/" rel="alternate" type="text/html" />
+        <id>https://amiantos.github.io/2025/04/26/yay-new-templating-system-using-mustache/</id>
         <published>2025-04-26T21:44:02.721Z</published>
         <updated>2025-04-26T21:44:02.721Z</updated>
         <author>
@@ -146,8 +146,8 @@
     </entry>
     <entry>
         <title>Hello!</title>
-        <link href="https://test.postalgic.app/2025/04/26/hello/" rel="alternate" type="text/html" />
-        <id>https://test.postalgic.app/2025/04/26/hello/</id>
+        <link href="https://amiantos.github.io/2025/04/26/hello/" rel="alternate" type="text/html" />
+        <id>https://amiantos.github.io/2025/04/26/hello/</id>
         <published>2025-04-26T18:19:26.324Z</published>
         <updated>2025-04-26T18:19:26.324Z</updated>
         <author>
@@ -159,8 +159,8 @@
     </entry>
     <entry>
         <title>New Post 2!!</title>
-        <link href="https://test.postalgic.app/2025/04/25/new-post-2/" rel="alternate" type="text/html" />
-        <id>https://test.postalgic.app/2025/04/25/new-post-2/</id>
+        <link href="https://amiantos.github.io/2025/04/25/new-post-2/" rel="alternate" type="text/html" />
+        <id>https://amiantos.github.io/2025/04/25/new-post-2/</id>
         <published>2025-04-25T09:09:41.500Z</published>
         <updated>2025-04-25T09:09:41.500Z</updated>
         <author>
@@ -172,8 +172,8 @@
     </entry>
     <entry>
         <title>New Post!</title>
-        <link href="https://test.postalgic.app/2025/04/25/new-post/" rel="alternate" type="text/html" />
-        <id>https://test.postalgic.app/2025/04/25/new-post/</id>
+        <link href="https://amiantos.github.io/2025/04/25/new-post/" rel="alternate" type="text/html" />
+        <id>https://amiantos.github.io/2025/04/25/new-post/</id>
         <published>2025-04-25T09:07:47.874Z</published>
         <updated>2025-04-25T09:07:47.874Z</updated>
         <author>
@@ -185,8 +185,8 @@
     </entry>
     <entry>
         <title>Eg=h</title>
-        <link href="https://test.postalgic.app/2025/04/24/egh/" rel="alternate" type="text/html" />
-        <id>https://test.postalgic.app/2025/04/24/egh/</id>
+        <link href="https://amiantos.github.io/2025/04/24/egh/" rel="alternate" type="text/html" />
+        <id>https://amiantos.github.io/2025/04/24/egh/</id>
         <published>2025-04-24T08:59:23.971Z</published>
         <updated>2025-04-24T08:59:23.971Z</updated>
         <author>
@@ -199,8 +199,8 @@
     </entry>
     <entry>
         <title>Mike Wood, Whose LeapFrog Toys Taught a Generation, Dies at 72</title>
-        <link href="https://test.postalgic.app/2025/04/23/mike-wood-whose-leapfrog-toys-taught-a/" rel="alternate" type="text/html" />
-        <id>https://test.postalgic.app/2025/04/23/mike-wood-whose-leapfrog-toys-taught-a/</id>
+        <link href="https://amiantos.github.io/2025/04/23/mike-wood-whose-leapfrog-toys-taught-a/" rel="alternate" type="text/html" />
+        <id>https://amiantos.github.io/2025/04/23/mike-wood-whose-leapfrog-toys-taught-a/</id>
         <published>2025-04-23T09:13:16.752Z</published>
         <updated>2025-04-23T09:13:16.752Z</updated>
         <author>
@@ -214,8 +214,8 @@
     </entry>
     <entry>
         <title>Creeping closer to Jesus</title>
-        <link href="https://test.postalgic.app/2025/04/23/creeping-closer-to-jesus/" rel="alternate" type="text/html" />
-        <id>https://test.postalgic.app/2025/04/23/creeping-closer-to-jesus/</id>
+        <link href="https://amiantos.github.io/2025/04/23/creeping-closer-to-jesus/" rel="alternate" type="text/html" />
+        <id>https://amiantos.github.io/2025/04/23/creeping-closer-to-jesus/</id>
         <published>2025-04-23T08:25:01.807Z</published>
         <updated>2025-04-23T08:25:01.807Z</updated>
         <author>
@@ -230,8 +230,8 @@
     </entry>
     <entry>
         <title>Another Test</title>
-        <link href="https://test.postalgic.app/2025/04/23/another-test/" rel="alternate" type="text/html" />
-        <id>https://test.postalgic.app/2025/04/23/another-test/</id>
+        <link href="https://amiantos.github.io/2025/04/23/another-test/" rel="alternate" type="text/html" />
+        <id>https://amiantos.github.io/2025/04/23/another-test/</id>
         <published>2025-04-23T08:02:34.324Z</published>
         <updated>2025-04-23T08:02:34.324Z</updated>
         <author>
@@ -244,8 +244,8 @@
     </entry>
     <entry>
         <title>Who am I?</title>
-        <link href="https://test.postalgic.app/2025/04/23/who-am-i/" rel="alternate" type="text/html" />
-        <id>https://test.postalgic.app/2025/04/23/who-am-i/</id>
+        <link href="https://amiantos.github.io/2025/04/23/who-am-i/" rel="alternate" type="text/html" />
+        <id>https://amiantos.github.io/2025/04/23/who-am-i/</id>
         <published>2025-04-23T08:00:07.072Z</published>
         <updated>2025-04-23T08:00:07.072Z</updated>
         <author>
@@ -258,8 +258,8 @@
     </entry>
     <entry>
         <title>Test</title>
-        <link href="https://test.postalgic.app/2025/04/21/test/" rel="alternate" type="text/html" />
-        <id>https://test.postalgic.app/2025/04/21/test/</id>
+        <link href="https://amiantos.github.io/2025/04/21/test/" rel="alternate" type="text/html" />
+        <id>https://amiantos.github.io/2025/04/21/test/</id>
         <published>2025-04-21T23:52:40.548Z</published>
         <updated>2025-04-21T23:52:40.548Z</updated>
         <author>
@@ -273,8 +273,8 @@
     </entry>
     <entry>
         <title>New Test Post</title>
-        <link href="https://test.postalgic.app/2025/04/20/new-test-post/" rel="alternate" type="text/html" />
-        <id>https://test.postalgic.app/2025/04/20/new-test-post/</id>
+        <link href="https://amiantos.github.io/2025/04/20/new-test-post/" rel="alternate" type="text/html" />
+        <id>https://amiantos.github.io/2025/04/20/new-test-post/</id>
         <published>2025-04-21T05:17:50.384Z</published>
         <updated>2025-04-21T05:17:50.384Z</updated>
         <author>
@@ -287,8 +287,8 @@
     </entry>
     <entry>
         <title>Test Post 2</title>
-        <link href="https://test.postalgic.app/2025/04/20/test-post-2/" rel="alternate" type="text/html" />
-        <id>https://test.postalgic.app/2025/04/20/test-post-2/</id>
+        <link href="https://amiantos.github.io/2025/04/20/test-post-2/" rel="alternate" type="text/html" />
+        <id>https://amiantos.github.io/2025/04/20/test-post-2/</id>
         <published>2025-04-21T05:16:07.690Z</published>
         <updated>2025-04-21T05:16:07.690Z</updated>
         <author>
@@ -301,8 +301,8 @@
     </entry>
     <entry>
         <title>Test Post</title>
-        <link href="https://test.postalgic.app/2025/04/20/test-post/" rel="alternate" type="text/html" />
-        <id>https://test.postalgic.app/2025/04/20/test-post/</id>
+        <link href="https://amiantos.github.io/2025/04/20/test-post/" rel="alternate" type="text/html" />
+        <id>https://amiantos.github.io/2025/04/20/test-post/</id>
         <published>2025-04-21T04:54:51.674Z</published>
         <updated>2025-04-21T04:54:51.674Z</updated>
         <author>
