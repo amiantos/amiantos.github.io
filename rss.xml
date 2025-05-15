@@ -4,7 +4,7 @@
     <link href="https://amiantos.github.io/" rel="alternate" type="text/html" />
     <link href="https://amiantos.github.io/rss.xml" rel="self" type="application/atom+xml" />
     <id>https://amiantos.github.io/</id>
-    <updated>2025-05-15T05:02:15.808Z</updated>
+    <updated>2025-05-15T05:02:47.350Z</updated>
     <subtitle>Just testing things out</subtitle>
     <author>
         <name>Seymour Butts</name>
@@ -13,20 +13,6 @@
     </author>
     <generator uri="https://postalgic.app/" version="1.0">Postalgic</generator>
     
-    <entry>
-        <title>Bazinga!</title>
-        <link href="https://amiantos.github.io/2025/05/14/bazinga/" rel="alternate" type="text/html" />
-        <id>https://amiantos.github.io/2025/05/14/bazinga/</id>
-        <published>2025-05-15T03:04:35.820Z</published>
-        <updated>2025-05-15T03:04:35.820Z</updated>
-        <author>
-            <name>Seymour Butts</name>
-            
-            
-        </author>
-        <content type="html"><![CDATA[<p>Bazinga!</p>
-<div class="embed link-embed"><a href="https://amiantos.github.io" target="_blank" rel="noopener noreferrer"><div class="link-title">Test Blog</div><div class="link-description">amiantos.github.io</div><div class="link-url">https://amiantos.github.io</div></a></div>]]></content>
-    </entry>
     <entry>
         <title>Multiple Photos</title>
         <link href="https://amiantos.github.io/2025/05/10/multiple-photos/" rel="alternate" type="text/html" />
