@@ -21,7 +21,6 @@
    ========================================== */
 :root {
     /* Colors */
-    --primary-color: #4a5568;
     --accent-color: #D32F1F;
     --background-color: #efefef;
     --text-color: #2d3748;
@@ -101,7 +100,7 @@ header {
 }
 
 header h1 a {
-    color: var(--primary-color);
+    color: var(--text-color);
     text-decoration: none;
 }
 
@@ -188,7 +187,7 @@ aside.sidebar {
     padding: 8px 0;
     font-weight: 600;
     font-size: 1.1rem;
-    color: var(--primary-color);
+    color: var(--text-color);
 }
 
 aside h2, 
@@ -196,7 +195,7 @@ aside h2,
     margin-bottom: 0.3em;
     font-weight: 600;
     font-size: 1.1rem;
-    color: var(--primary-color);
+    color: var(--text-color);
 }
 
 .sidebar-links {
