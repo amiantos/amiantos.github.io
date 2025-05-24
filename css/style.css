@@ -21,14 +21,14 @@
    ========================================== */
 :root {
     /* Colors */
-    --accent-color: #D32F1F;
-    --background-color: #efefef;
-    --text-color: #2d3748;
+    --accent-color: #EB4D3D;
+    --background-color: #020A01;
+    --text-color: #FEF8F1;
 
     /* Shades */
-    --light-shade: #dedede;
-    --medium-shade: #a0aec0;
-    --dark-shade: #4a5568;
+    --light-shade: #641009;
+    --medium-shade: #999999;
+    --dark-shade: #FDF5F2;
 }
 
 * {
