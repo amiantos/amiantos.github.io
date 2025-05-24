@@ -4,7 +4,7 @@
     <link href="https://amiantos.github.io/" rel="alternate" type="text/html" />
     <link href="https://amiantos.github.io/rss.xml" rel="self" type="application/atom+xml" />
     <id>https://amiantos.github.io/</id>
-    <updated>2025-05-24T07:00:20.584Z</updated>
+    <updated>2025-05-24T07:16:18.071Z</updated>
     <subtitle>Just testing things out</subtitle>
     <author>
         <name>Seymour Butts</name>
@@ -24,6 +24,8 @@
             
             
         </author>
+        <category term="poop" />
+        <category term="fart" />
         <content type="html"><![CDATA[<p>Test</p>
 <div class="embed image-embed gallery" id="gallery-x-coredata://B0537693-4D45-410E-8A88-4F536F271415/Embed/p20">
     <div class="gallery-container">    <div class="gallery-slide">
@@ -185,8 +187,8 @@
     </entry>
     <entry>
         <title>Eg=h</title>
-        <link href="https://amiantos.github.io/2025/04/24/egh/" rel="alternate" type="text/html" />
-        <id>https://amiantos.github.io/2025/04/24/egh/</id>
+        <link href="https://amiantos.github.io/2025/04/24/eg-h/" rel="alternate" type="text/html" />
+        <id>https://amiantos.github.io/2025/04/24/eg-h/</id>
         <published>2025-04-24T08:59:23.971Z</published>
         <updated>2025-04-24T08:59:23.971Z</updated>
         <author>
@@ -199,8 +201,8 @@
     </entry>
     <entry>
         <title>Mike Wood, Whose LeapFrog Toys Taught a Generation, Dies at 72</title>
-        <link href="https://amiantos.github.io/2025/04/23/mike-wood-whose-leapfrog-toys-taught-a/" rel="alternate" type="text/html" />
-        <id>https://amiantos.github.io/2025/04/23/mike-wood-whose-leapfrog-toys-taught-a/</id>
+        <link href="https://amiantos.github.io/2025/04/23/mike-wood-whose-leapfrog-toys-taught-a-generation/" rel="alternate" type="text/html" />
+        <id>https://amiantos.github.io/2025/04/23/mike-wood-whose-leapfrog-toys-taught-a-generation/</id>
         <published>2025-04-23T09:13:16.752Z</published>
         <updated>2025-04-23T09:13:16.752Z</updated>
         <author>
