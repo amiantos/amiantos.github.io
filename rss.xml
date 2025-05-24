@@ -4,7 +4,7 @@
     <link href="https://amiantos.github.io/" rel="alternate" type="text/html" />
     <link href="https://amiantos.github.io/rss.xml" rel="self" type="application/atom+xml" />
     <id>https://amiantos.github.io/</id>
-    <updated>2025-05-24T08:50:59.161Z</updated>
+    <updated>2025-05-24T08:52:53.956Z</updated>
     <subtitle>Just testing things out</subtitle>
     <author>
         <name>Seymour Butts</name>
@@ -13,6 +13,19 @@
     </author>
     <generator uri="https://postalgic.app/" version="1.0">Postalgic</generator>
     
+    <entry>
+        <title>Awdwfafafsfasfa</title>
+        <link href="https://amiantos.github.io/2025/05/24/awdwfafafsfasfa/" rel="alternate" type="text/html" />
+        <id>https://amiantos.github.io/2025/05/24/awdwfafafsfasfa/</id>
+        <published>2025-05-24T08:52:50.164Z</published>
+        <updated>2025-05-24T08:52:50.164Z</updated>
+        <author>
+            <name>Seymour Butts</name>
+            
+            
+        </author>
+        <content type="html"><![CDATA[<p>Awdwfafafsfasfa</p>]]></content>
+    </entry>
     <entry>
         <title>Testtttttt</title>
         <link href="https://amiantos.github.io/2025/05/24/testtttttt/" rel="alternate" type="text/html" />
@@ -317,19 +330,5 @@
         </author>
         <category term="test" />
         <content type="html"><![CDATA[<p>Not text</p>]]></content>
-    </entry>
-    <entry>
-        <title>Test Post 2</title>
-        <link href="https://amiantos.github.io/2025/04/20/test-post-2/" rel="alternate" type="text/html" />
-        <id>https://amiantos.github.io/2025/04/20/test-post-2/</id>
-        <published>2025-04-21T05:16:07.690Z</published>
-        <updated>2025-04-21T05:16:07.690Z</updated>
-        <author>
-            <name>Seymour Butts</name>
-            
-            
-        </author>
-        <category term="test" />
-        <content type="html"><![CDATA[<p>No text</p>]]></content>
     </entry>
 </feed>
