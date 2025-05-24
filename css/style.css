@@ -24,19 +24,12 @@
     --primary-color: #4a5568;
     --accent-color: #D32F1F;
     --background-color: #efefef;
-    --background-outline-color: #efefef;
     --text-color: #2d3748;
 
-    /* Grays */
-    --light-gray: #dedede;
-    --medium-gray: #a0aec0;
-    --dark-gray: #4a5568;
-
-    /* Tag & Category Colors */
-    --tag-bg: #f5e5ef;
-    --tag-color: #CB7BAC;
-    --category-bg: #faf4eb;
-    --category-color: #D32F1F;
+    /* Shades */
+    --light-shade: #dedede;
+    --medium-shade: #a0aec0;
+    --dark-shade: #4a5568;
 }
 
 * {
@@ -54,14 +47,13 @@ html {
     font: 100%/1.5 sans-serif;
     word-wrap: break-word;
     margin: 0 auto;
-    padding: 1.5em;
 }
 
 body {
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
     line-height: 1.6;
     color: var(--text-color);
-    background-color: var(--background-outline-color);
+    background-color: var(--background-color);
 }
 
 a {
@@ -114,7 +106,7 @@ header h1 a {
 }
 
 header .tagline {
-    color: var(--medium-gray);
+    color: var(--medium-shade);
     font-size: 1.2rem;
     font-style: italic;
 }
@@ -142,7 +134,7 @@ header .tagline {
     display: block;
     width: 25px;
     height: 3px;
-    background-color: var(--dark-gray);
+    background-color: var(--dark-shade);
     margin: 5px 0;
     transition: 0.3s;
 }
@@ -171,7 +163,7 @@ aside.sidebar {
 /* Mobile Navigation in Sidebar */
 .mobile-nav {
     margin-bottom: 25px;
-    border-bottom: 1px solid var(--light-gray);
+    border-bottom: 1px solid var(--light-shade);
     padding-bottom: 20px;
 }
 
@@ -247,19 +239,27 @@ main {
     flex: 1;
 }
 
+.archive-separator {
+    height: 1px;
+    width: 100%;
+    background-color: var(--light-shade);
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
 .post-content a {
     text-decoration: underline;
 }
 
 .post-date {
-    color: var(--medium-gray);
+    color: var(--medium-shade);
     font-size: 0.9em;
     display: inline-block;
 }
 
 .post-date a, 
 .post-author a {
-    color: var(--medium-gray);
+    color: var(--medium-shade);
     text-decoration: none;
 }
 
@@ -270,7 +270,7 @@ main {
 }
 
 .post-author {
-    color: var(--medium-gray);
+    color: var(--medium-shade);
     font-size: 0.9em;
     display: inline-block;
 }
@@ -317,15 +317,15 @@ main {
 
 .tag {
     display: inline-block;
-    background-color: var(--category-bg);
-    color: var(--category-color);
-    border: 1px solid var(--category-color);
+    background-color: var(--background-color);
+    color: var(--accent-color);
+    border: 1px solid var(--accent-color);
     padding: 3px 8px;
     border-radius: 1em;
 }
 
 .tag:hover {
-    background-color: var(--category-color);
+    background-color: var(--accent-color);
     color: white;
     text-decoration: none;
 }
@@ -340,7 +340,7 @@ main {
 
 .tag-item, 
 .category-item {
-    background-color: var(--light-gray);
+    background-color: var(--light-shade);
     padding: 15px;
     border-radius: 4px;
 }
@@ -348,15 +348,14 @@ main {
 .tag-count, 
 .category-count {
     font-size: 0.8rem;
-    color: var(--medium-gray);
+    color: var(--medium-shade);
     font-weight: normal;
 }
 
 .tag-meta, 
 .category-meta {
-    color: var(--medium-gray);
+    color: var(--medium-shade);
     font-style: italic;
-    margin-bottom: 20px;
 }
 
 /* Categories */
@@ -367,15 +366,15 @@ main {
 .post-category a {
     display: inline-block;
     color: white;
-    background-color: var(--category-color);
-    border: 1px solid var(--category-color);
+    background-color: var(--accent-color);
+    border: 1px solid var(--accent-color);
     padding: 3px 8px;
     border-radius: 1em;
 }
 
 .post-category a:hover {
-    background-color: var(--category-bg);
-    color: var(--category-color);
+    background-color: var(--background-color);
+    color: var(--accent-color);
     text-decoration: none;
 }
 
@@ -390,14 +389,14 @@ main {
 .archive-year {
     font-size: 1.5rem;
     font-weight: bold;
-    margin: 30px 0 10px;
-    color: var(--dark-gray);
+    margin: 0px 0 10px;
+    color: var(--dark-shade);
 }
 
 .archive-month {
     font-size: 1.2rem;
     margin: 20px 0 10px;
-    color: var(--dark-gray);
+    color: var(--dark-shade);
 }
 
 .archive-month a {
@@ -416,42 +415,47 @@ main {
 }
 
 .archive-date {
-    color: var(--medium-gray);
+    color: var(--medium-shade);
     display: inline-block;
-    width: 100px;
+    width: 70px;
 }
 
 /* Monthly Archive Pages */
 .archive-meta {
-    color: var(--medium-gray);
+    color: var(--medium-shade);
     font-style: italic;
-    margin-bottom: 30px;
 }
 
-.month-navigation {
+.month-navigation,
+.pagination-navigation {
     display: flex;
     justify-content: space-between;
     margin-top: 40px;
     padding-top: 20px;
-    border-top: 1px solid var(--light-gray);
+    border-top: 1px solid var(--light-shade);
 }
 
 .month-navigation .nav-previous,
-.month-navigation .nav-next {
+.month-navigation .nav-next,
+.pagination-navigation .nav-previous,
+.pagination-navigation .nav-next {
     flex: 1;
 }
 
-.month-navigation .nav-next {
+.month-navigation .nav-next,
+.pagination-navigation .nav-next {
     text-align: right;
 }
 
-.month-navigation a {
+.month-navigation a,
+.pagination-navigation a {
     color: var(--accent-color);
     text-decoration: none;
     font-weight: 500;
 }
 
-.month-navigation a:hover {
+.month-navigation a:hover,
+.pagination-navigation a:hover {
     text-decoration: underline;
 }
 
@@ -481,7 +485,7 @@ main {
 }
 
 .link-embed {
-    border: 1px solid var(--light-gray);
+    border: 1px solid var(--light-shade);
     border-radius: 8px;
     overflow: hidden;
 }
@@ -500,7 +504,7 @@ main {
 }
 
 .link-embed a:hover {
-    background-color: var(--light-gray);
+    background-color: var(--light-shade);
     text-decoration: none;
 }
 
@@ -514,13 +518,13 @@ main {
     grid-area: description;
     font-size: 0.9em;
     padding: 0 10px;
-    color: var(--dark-gray);
+    color: var(--dark-shade);
 }
 
 .link-url {
     grid-area: url;
     font-size: 0.8em;
-    color: var(--medium-gray);
+    color: var(--medium-shade);
     padding: 5px 10px 10px 10px;
     white-space: nowrap;
     overflow: hidden;
@@ -542,7 +546,7 @@ main {
    10. Typography Elements
    ========================================== */
 blockquote {
-    color: var(--dark-gray);
+    color: var(--dark-shade);
     font-style: italic;
     border-left: 2px solid var(--accent-color);
     padding-left: 1.3em;
@@ -554,11 +558,11 @@ blockquote {
 footer {
     text-align: center;
     padding: 2em;
-    color: var(--medium-gray);
+    color: var(--medium-shade);
     font-size: 0.9rem;
     margin-top: auto;
     width: 100%;
-    border-top: 1px solid var(--light-gray);
+    border-top: 1px solid var(--light-shade);
 }
 
 /* ==========================================
@@ -748,7 +752,7 @@ footer {
 /* Desktop (> 900px) */
 @media (min-width: 901px) {
     body {
-        background-color: var(--background-outline-color);
+        background-color: var(--background-color);
         font-size: 115%;
     }
     
@@ -782,13 +786,9 @@ footer {
 }
 
 /* Mobile (≤ 900px) */
-@media (max-width: 900px) {
-    html {
-        padding: 0.6em;
-    }
-    
+@media (max-width: 900px) {            
     body {
-        background-color: var(--background-outline-color);
+        background-color: var(--background-color);
     }
     
     .container {
