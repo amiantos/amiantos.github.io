@@ -400,10 +400,94 @@ main {
     color: var(--dark-gray);
 }
 
+.archive-month a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.archive-month a:hover {
+    color: var(--accent-color);
+    text-decoration: underline;
+}
+
+.archive-posts {
+    list-style: none;
+    padding-left: 0;
+}
+
 .archive-date {
     color: var(--medium-gray);
     display: inline-block;
     width: 100px;
+}
+
+/* Monthly Archive Pages */
+.archive-meta {
+    color: var(--medium-gray);
+    font-style: italic;
+    margin-bottom: 30px;
+}
+
+.monthly-archive-posts .post-item {
+    margin-bottom: 30px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid var(--light-gray);
+}
+
+.monthly-archive-posts .post-item:last-child {
+    border-bottom: none;
+}
+
+.monthly-archive-posts .post-date {
+    color: var(--medium-gray);
+    font-size: 0.9rem;
+    margin-bottom: 5px;
+}
+
+.monthly-archive-posts .post-title {
+    margin: 0 0 10px 0;
+    font-size: 1.3rem;
+}
+
+.monthly-archive-posts .post-title a {
+    color: var(--dark-gray);
+    text-decoration: none;
+}
+
+.monthly-archive-posts .post-title a:hover {
+    color: var(--accent-color);
+}
+
+.monthly-archive-posts .post-category,
+.monthly-archive-posts .post-tags {
+    margin-top: 10px;
+}
+
+.month-navigation {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+    padding-top: 20px;
+    border-top: 1px solid var(--light-gray);
+}
+
+.month-navigation .nav-previous,
+.month-navigation .nav-next {
+    flex: 1;
+}
+
+.month-navigation .nav-next {
+    text-align: right;
+}
+
+.month-navigation a {
+    color: var(--accent-color);
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.month-navigation a:hover {
+    text-decoration: underline;
 }
 
 /* ==========================================
