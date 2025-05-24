@@ -100,7 +100,7 @@ header {
 }
 
 header h1 a {
-    color: var(--text-color);
+    color: var(--dark-shade);
     text-decoration: none;
 }
 
@@ -187,7 +187,7 @@ aside.sidebar {
     padding: 8px 0;
     font-weight: 600;
     font-size: 1.1rem;
-    color: var(--text-color);
+    color: var(--dark-shade);
 }
 
 aside h2, 
@@ -195,7 +195,7 @@ aside h2,
     margin-bottom: 0.3em;
     font-weight: 600;
     font-size: 1.1rem;
-    color: var(--text-color);
+    color: var(--dark-shade);
 }
 
 .sidebar-links {
