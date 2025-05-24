@@ -4,7 +4,7 @@
     <link href="https://amiantos.github.io/" rel="alternate" type="text/html" />
     <link href="https://amiantos.github.io/rss.xml" rel="self" type="application/atom+xml" />
     <id>https://amiantos.github.io/</id>
-    <updated>2025-05-24T08:36:02.976Z</updated>
+    <updated>2025-05-24T08:50:45.032Z</updated>
     <subtitle>Just testing things out</subtitle>
     <author>
         <name>Seymour Butts</name>
@@ -13,6 +13,24 @@
     </author>
     <generator uri="https://postalgic.app/" version="1.0">Postalgic</generator>
     
+    <entry>
+        <title>Test</title>
+        <link href="https://amiantos.github.io/2025/05/24/test-3/" rel="alternate" type="text/html" />
+        <id>https://amiantos.github.io/2025/05/24/test-3/</id>
+        <published>2025-05-24T08:50:33.664Z</published>
+        <updated>2025-05-24T08:50:33.664Z</updated>
+        <author>
+            <name>Seymour Butts</name>
+            
+            
+        </author>
+        <content type="html"><![CDATA[<div class="embed image-embed single-image">
+    <a href="/images/embeds/embed-1748076641-6412CEAA-00.jpg" class="lightbox-trigger" data-lightbox="embed-x-coredata://B0537693-4D45-410E-8A88-4F536F271415/Embed/p28" data-title="">
+        <img src="/images/embeds/embed-1748076641-6412CEAA-00.jpg" alt="Image" class="embed-image" />
+    </a>
+</div>
+<p>Test</p>]]></content>
+    </entry>
     <entry>
         <title>Multiple Photos</title>
         <link href="https://amiantos.github.io/2025/05/10/multiple-photos/" rel="alternate" type="text/html" />
