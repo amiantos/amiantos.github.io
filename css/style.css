@@ -21,14 +21,14 @@
    ========================================== */
 :root {
     /* Colors */
-    --accent-color: #EB4D3D;
-    --background-color: #020A01;
-    --text-color: #FEF8F1;
+    --accent-color: #FFA100;
+    --background-color: #1A202C;
+    --text-color: #E2E8F0;
 
     /* Shades */
-    --light-shade: #641009;
-    --medium-shade: #999999;
-    --dark-shade: #FDF5F2;
+    --light-shade: #2D3748;
+    --medium-shade: #4A5568;
+    --dark-shade: #CBD5E0;
 }
 
 * {
@@ -791,7 +791,7 @@ footer {
     }
     
     .container {
-        padding: 0;
+        padding: 0.5em;
         position: relative;
         overflow-x: hidden;
     }
@@ -805,7 +805,7 @@ footer {
     }
 
     /* Hide desktop nav on mobile */
-    nav:not(.sidebar-nav) {
+    nav:not(.sidebar-nav):not(.month-navigation):not(.pagination-navigation) {
         display: none;
     }
     
@@ -905,5 +905,20 @@ footer {
         padding-left: 1em;
         padding-right: 1em;
         width: 100%; /* Full width when sidebar is hidden */
+    }
+    
+    /* Mobile pagination styling */
+    .month-navigation,
+    .pagination-navigation {
+        flex-direction: column;
+        gap: 10px;
+        text-align: center;
+    }
+    
+    .month-navigation .nav-previous,
+    .month-navigation .nav-next,
+    .pagination-navigation .nav-previous,
+    .pagination-navigation .nav-next {
+        text-align: center;
     }
 }
