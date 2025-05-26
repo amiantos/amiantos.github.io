@@ -2,29 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>https://amiantos.github.io/</loc>
-        <lastmod>2025-05-26T06:50:48.627Z</lastmod>
+        <lastmod>2025-05-26T06:51:51.514Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
         <loc>https://amiantos.github.io/archives/</loc>
-        <lastmod>2025-05-26T06:50:48.627Z</lastmod>
+        <lastmod>2025-05-26T06:51:51.514Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://amiantos.github.io/tags/</loc>
-        <lastmod>2025-05-26T06:50:48.627Z</lastmod>
+        <lastmod>2025-05-26T06:51:51.514Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://amiantos.github.io/categories/</loc>
-        <lastmod>2025-05-26T06:50:48.627Z</lastmod>
+        <lastmod>2025-05-26T06:51:51.514Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.7</priority>
     </url>
     
+    <url>
+        <loc>https://amiantos.github.io/2025/05/25/test-to-see-if-the-git-repo-is-still-deleted/</loc>
+        <lastmod>2025-05-26T06:51:43.836Z</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
     <url>
         <loc>https://amiantos.github.io/2025/05/24/awdwfafafsfasfa/</loc>
         <lastmod>2025-05-24T08:52:50.164Z</lastmod>
@@ -166,69 +172,69 @@
     
     <url>
         <loc>https://amiantos.github.io/tags/fart/</loc>
-        <lastmod>2025-05-26T06:50:48Z</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://amiantos.github.io/tags/test-2/</loc>
-        <lastmod>2025-05-26T06:50:48Z</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://amiantos.github.io/tags/poop/</loc>
-        <lastmod>2025-05-26T06:50:48Z</lastmod>
+        <lastmod>2025-05-26T06:51:51Z</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>https://amiantos.github.io/tags/test/</loc>
-        <lastmod>2025-05-26T06:50:48Z</lastmod>
+        <lastmod>2025-05-26T06:51:51Z</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://amiantos.github.io/tags/test-2/</loc>
+        <lastmod>2025-05-26T06:51:51Z</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://amiantos.github.io/tags/poop/</loc>
+        <lastmod>2025-05-26T06:51:51Z</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>https://amiantos.github.io/categories/tests/</loc>
-        <lastmod>2025-05-26T06:50:48Z</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://amiantos.github.io/categories/test-3/</loc>
-        <lastmod>2025-05-26T06:50:48Z</lastmod>
+        <loc>https://amiantos.github.io/categories/test-4/</loc>
+        <lastmod>2025-05-26T06:51:51Z</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>https://amiantos.github.io/categories/poop/</loc>
-        <lastmod>2025-05-26T06:50:48Z</lastmod>
+        <lastmod>2025-05-26T06:51:51Z</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>https://amiantos.github.io/categories/test-4/</loc>
-        <lastmod>2025-05-26T06:50:48Z</lastmod>
+        <loc>https://amiantos.github.io/categories/tests/</loc>
+        <lastmod>2025-05-26T06:51:51Z</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://amiantos.github.io/categories/test-3/</loc>
+        <lastmod>2025-05-26T06:51:51Z</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>https://amiantos.github.io/2025/04/</loc>
-        <lastmod>2025-05-26T06:50:48Z</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
         <loc>https://amiantos.github.io/2025/05/</loc>
-        <lastmod>2025-05-26T06:50:48Z</lastmod>
+        <lastmod>2025-05-26T06:51:51Z</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
         <loc>https://amiantos.github.io/2025/03/</loc>
-        <lastmod>2025-05-26T06:50:48Z</lastmod>
+        <lastmod>2025-05-26T06:51:51Z</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://amiantos.github.io/2025/04/</loc>
+        <lastmod>2025-05-26T06:51:51Z</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
