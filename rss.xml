@@ -4,7 +4,7 @@
     <link href="https://amiantos.github.io/" rel="alternate" type="text/html" />
     <link href="https://amiantos.github.io/rss.xml" rel="self" type="application/atom+xml" />
     <id>https://amiantos.github.io/</id>
-    <updated>2025-05-26T18:08:00.565Z</updated>
+    <updated>2025-05-31T22:20:42.668Z</updated>
     <subtitle>Just testing things out</subtitle>
     <author>
         <name>Seymour Butts</name>
@@ -13,6 +13,24 @@
     </author>
     <generator uri="https://postalgic.app/" version="1.0">Postalgic</generator>
     
+    <entry>
+        <title>Photo embed transparency test!</title>
+        <link href="https://amiantos.github.io/2025/05/31/photo-embed-transparency-test/" rel="alternate" type="text/html" />
+        <id>https://amiantos.github.io/2025/05/31/photo-embed-transparency-test/</id>
+        <published>2025-05-31T22:20:05.897Z</published>
+        <updated>2025-05-31T22:20:05.897Z</updated>
+        <author>
+            <name>Seymour Butts</name>
+            
+            
+        </author>
+        <content type="html"><![CDATA[<p>Photo embed transparency test!</p>
+<div class="embed image-embed single-image">
+    <a href="/images/embeds/embed-1748730032-5650442D-00.png" class="lightbox-trigger" data-lightbox="embed-x-coredata://B0537693-4D45-410E-8A88-4F536F271415/Embed/p29" data-title="">
+        <img src="/images/embeds/embed-1748730032-5650442D-00.png" alt="Image" class="embed-image" />
+    </a>
+</div>]]></content>
+    </entry>
     <entry>
         <title>Matchups
 
@@ -317,19 +335,5 @@ r3 - ✅...</title>
         </author>
         <content type="html"><![CDATA[<div class="embed link-embed"><a href="https://github.com/godotengine/godot/pull/105628" target="_blank" rel="noopener noreferrer"><div class="link-title">Native visionOS platform support by rsanchezsaez · Pull Request #105628 · godotengine/godot</div><div class="link-image"><img src="/images/embeds/embed--5913044859714034102.jpg" alt="Native visionOS platform support by rsanchezsaez · Pull Request #105628 · godotengine/godot" /></div><div class="link-description">github.com</div><div class="link-url">https://github.com/godotengine/godot/pull/105628</div></a></div>
 <p>Look at this news story!</p>]]></content>
-    </entry>
-    <entry>
-        <title>Who am I?</title>
-        <link href="https://amiantos.github.io/2025/04/23/who-am-i/" rel="alternate" type="text/html" />
-        <id>https://amiantos.github.io/2025/04/23/who-am-i/</id>
-        <published>2025-04-23T08:00:07.072Z</published>
-        <updated>2025-04-23T08:00:07.072Z</updated>
-        <author>
-            <name>Seymour Butts</name>
-            
-            
-        </author>
-        <content type="html"><![CDATA[<p>This is me!</p>
-<div class="embed link-embed"><a href="https://bradroot.me" target="_blank" rel="noopener noreferrer"><div class="link-title">Brad Root - Software Engineer - Irvine, CA</div><div class="link-image"><img src="/images/embeds/embed--7817151082720588997.jpg" alt="Brad Root - Software Engineer - Irvine, CA" /></div><div class="link-description">bradroot.me</div><div class="link-url">https://bradroot.me</div></a></div>]]></content>
     </entry>
 </feed>
