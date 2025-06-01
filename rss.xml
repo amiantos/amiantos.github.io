@@ -4,7 +4,7 @@
     <link href="https://amiantos.github.io/" rel="alternate" type="text/html" />
     <link href="https://amiantos.github.io/rss.xml" rel="self" type="application/atom+xml" />
     <id>https://amiantos.github.io/</id>
-    <updated>2025-05-31T22:20:42.668Z</updated>
+    <updated>2025-06-01T05:41:19.942Z</updated>
     <subtitle>Just testing things out</subtitle>
     <author>
         <name>Seymour Butts</name>
@@ -25,11 +25,9 @@
             
         </author>
         <content type="html"><![CDATA[<p>Photo embed transparency test!</p>
-<div class="embed image-embed single-image">
-    <a href="/images/embeds/embed-1748730032-5650442D-00.png" class="lightbox-trigger" data-lightbox="embed-x-coredata://B0537693-4D45-410E-8A88-4F536F271415/Embed/p29" data-title="">
-        <img src="/images/embeds/embed-1748730032-5650442D-00.png" alt="Image" class="embed-image" />
-    </a>
-</div>]]></content>
+<div style="margin: 16px 0;">    <a href="https://amiantos.github.io/images/embeds/embed-1748730032-5650442D-00.png" target="_blank">
+        <img src="https://amiantos.github.io/images/embeds/embed-1748730032-5650442D-00.png" alt="Image 1" style="max-width: 100%; height: auto; margin: 8px 0; border-radius: 4px; display: block;" />
+    </a></div>]]></content>
     </entry>
     <entry>
         <title>Matchups
@@ -98,11 +96,9 @@ r3 - ✅...</title>
             
             
         </author>
-        <content type="html"><![CDATA[<div class="embed image-embed single-image">
-    <a href="/images/embeds/embed-1748076641-6412CEAA-00.jpg" class="lightbox-trigger" data-lightbox="embed-x-coredata://B0537693-4D45-410E-8A88-4F536F271415/Embed/p28" data-title="">
-        <img src="/images/embeds/embed-1748076641-6412CEAA-00.jpg" alt="Image" class="embed-image" />
-    </a>
-</div>
+        <content type="html"><![CDATA[<div style="margin: 16px 0;">    <a href="https://amiantos.github.io/images/embeds/embed-1748076641-6412CEAA-00.jpg" target="_blank">
+        <img src="https://amiantos.github.io/images/embeds/embed-1748076641-6412CEAA-00.jpg" alt="Image 1" style="max-width: 100%; height: auto; margin: 8px 0; border-radius: 4px; display: block;" />
+    </a></div>
 <p>Test</p>]]></content>
     </entry>
     <entry>
@@ -119,37 +115,17 @@ r3 - ✅...</title>
         <category term="poop" />
         <category term="fart" />
         <content type="html"><![CDATA[<p>Test</p>
-<div class="embed image-embed gallery" id="gallery-x-coredata://B0537693-4D45-410E-8A88-4F536F271415/Embed/p20">
-    <div class="gallery-container">    <div class="gallery-slide">
-        <a href="/images/embeds/embed-1746868387-37A70A95-00.jpg" class="lightbox-trigger" data-lightbox="embed-x-coredata://B0537693-4D45-410E-8A88-4F536F271415/Embed/p20" data-title="">
-            <img src="/images/embeds/embed-1746868387-37A70A95-00.jpg" alt="Image 1" class="embed-image" />
-        </a>
-    </div>    <div class="gallery-slide">
-        <a href="/images/embeds/embed-1746868387-D9257EA0-01.jpg" class="lightbox-trigger" data-lightbox="embed-x-coredata://B0537693-4D45-410E-8A88-4F536F271415/Embed/p20" data-title="">
-            <img src="/images/embeds/embed-1746868387-D9257EA0-01.jpg" alt="Image 2" class="embed-image" />
-        </a>
-    </div>    <div class="gallery-slide">
-        <a href="/images/embeds/embed-1746868387-9B3647FC-02.jpg" class="lightbox-trigger" data-lightbox="embed-x-coredata://B0537693-4D45-410E-8A88-4F536F271415/Embed/p20" data-title="">
-            <img src="/images/embeds/embed-1746868387-9B3647FC-02.jpg" alt="Image 3" class="embed-image" />
-        </a>
-    </div>    <div class="gallery-slide">
-        <a href="/images/embeds/embed-1746868387-724ED5DA-03.jpg" class="lightbox-trigger" data-lightbox="embed-x-coredata://B0537693-4D45-410E-8A88-4F536F271415/Embed/p20" data-title="">
-            <img src="/images/embeds/embed-1746868387-724ED5DA-03.jpg" alt="Image 4" class="embed-image" />
-        </a>
-    </div>    <div class="gallery-slide">
-        <a href="/images/embeds/embed-1746868387-52E8946B-04.jpg" class="lightbox-trigger" data-lightbox="embed-x-coredata://B0537693-4D45-410E-8A88-4F536F271415/Embed/p20" data-title="">
-            <img src="/images/embeds/embed-1746868387-52E8946B-04.jpg" alt="Image 5" class="embed-image" />
-        </a>
-    </div>        <div class="gallery-nav">
-            <button class="gallery-prev" onclick="prevSlide('gallery-x-coredata://B0537693-4D45-410E-8A88-4F536F271415/Embed/p20')">❮</button>
-            <button class="gallery-next" onclick="nextSlide('gallery-x-coredata://B0537693-4D45-410E-8A88-4F536F271415/Embed/p20')">❯</button>
-        </div>
-    </div>
-    <div class="gallery-dots">    <span class="gallery-dot" onclick="showSlide('gallery-x-coredata://B0537693-4D45-410E-8A88-4F536F271415/Embed/p20', 0)"></span>    <span class="gallery-dot" onclick="showSlide('gallery-x-coredata://B0537693-4D45-410E-8A88-4F536F271415/Embed/p20', 1)"></span>    <span class="gallery-dot" onclick="showSlide('gallery-x-coredata://B0537693-4D45-410E-8A88-4F536F271415/Embed/p20', 2)"></span>    <span class="gallery-dot" onclick="showSlide('gallery-x-coredata://B0537693-4D45-410E-8A88-4F536F271415/Embed/p20', 3)"></span>    <span class="gallery-dot" onclick="showSlide('gallery-x-coredata://B0537693-4D45-410E-8A88-4F536F271415/Embed/p20', 4)"></span>    </div>
-</div>
-<script>
-    initGallery('gallery-x-coredata://B0537693-4D45-410E-8A88-4F536F271415/Embed/p20');
-</script>]]></content>
+<div style="margin: 16px 0;">    <a href="https://amiantos.github.io/images/embeds/embed-1746868387-37A70A95-00.jpg" target="_blank">
+        <img src="https://amiantos.github.io/images/embeds/embed-1746868387-37A70A95-00.jpg" alt="Image 1" style="max-width: 100%; height: auto; margin: 8px 0; border-radius: 4px; display: block;" />
+    </a>    <a href="https://amiantos.github.io/images/embeds/embed-1746868387-D9257EA0-01.jpg" target="_blank">
+        <img src="https://amiantos.github.io/images/embeds/embed-1746868387-D9257EA0-01.jpg" alt="Image 2" style="max-width: 100%; height: auto; margin: 8px 0; border-radius: 4px; display: block;" />
+    </a>    <a href="https://amiantos.github.io/images/embeds/embed-1746868387-9B3647FC-02.jpg" target="_blank">
+        <img src="https://amiantos.github.io/images/embeds/embed-1746868387-9B3647FC-02.jpg" alt="Image 3" style="max-width: 100%; height: auto; margin: 8px 0; border-radius: 4px; display: block;" />
+    </a>    <a href="https://amiantos.github.io/images/embeds/embed-1746868387-724ED5DA-03.jpg" target="_blank">
+        <img src="https://amiantos.github.io/images/embeds/embed-1746868387-724ED5DA-03.jpg" alt="Image 4" style="max-width: 100%; height: auto; margin: 8px 0; border-radius: 4px; display: block;" />
+    </a>    <a href="https://amiantos.github.io/images/embeds/embed-1746868387-52E8946B-04.jpg" target="_blank">
+        <img src="https://amiantos.github.io/images/embeds/embed-1746868387-52E8946B-04.jpg" alt="Image 5" style="max-width: 100%; height: auto; margin: 8px 0; border-radius: 4px; display: block;" />
+    </a></div>]]></content>
     </entry>
     <entry>
         <title>Photos?</title>
@@ -163,11 +139,9 @@ r3 - ✅...</title>
             
         </author>
         <content type="html"><![CDATA[<p>Hmm?</p>
-<div class="embed image-embed single-image">
-    <a href="/images/embeds/embed-1746868113-3083C183-00.jpg" class="lightbox-trigger" data-lightbox="embed-x-coredata://B0537693-4D45-410E-8A88-4F536F271415/Embed/p19" data-title="">
-        <img src="/images/embeds/embed-1746868113-3083C183-00.jpg" alt="Image" class="embed-image" />
-    </a>
-</div>]]></content>
+<div style="margin: 16px 0;">    <a href="https://amiantos.github.io/images/embeds/embed-1746868113-3083C183-00.jpg" target="_blank">
+        <img src="https://amiantos.github.io/images/embeds/embed-1746868113-3083C183-00.jpg" alt="Image 1" style="max-width: 100%; height: auto; margin: 8px 0; border-radius: 4px; display: block;" />
+    </a></div>]]></content>
     </entry>
     <entry>
         <title>Asdasdasdasfasfasfafsasfsaf</title>
@@ -288,7 +262,12 @@ r3 - ✅...</title>
             
             
         </author>
-        <content type="html"><![CDATA[<div class="embed link-embed"><a href="https://fedi.rib.gay/notes/a6xqityngfubsz0f" target="_blank" rel="noopener noreferrer"><div class="link-title">Rib :ms_red_panda: (@Rib)</div><div class="link-image"><img src="/images/embeds/embed--6755926723868143782.jpg" alt="Rib :ms_red_panda: (@Rib)" /></div><div class="link-description">fedi.rib.gay</div><div class="link-url">https://fedi.rib.gay/notes/a6xqityngfubsz0f</div></a></div>
+        <content type="html"><![CDATA[<div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin: 16px 0; background: #f9f9f9;">
+    <a href="https://fedi.rib.gay/notes/a6xqityngfubsz0f" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">    <div style="font-size: 18px; font-weight: bold; margin-bottom: 8px; color: #333;">Rib :ms_red_panda: (@Rib)</div>    <div style="margin: 8px 0;">
+        <img src="https://amiantos.github.io/images/embeds/embed--6755926723868143782.jpg" alt="Rib :ms_red_panda: (@Rib)" style="max-width: 100%; height: auto; border-radius: 4px;" />
+    </div>    <div style="margin: 8px 0; color: #666; line-height: 1.4;">fedi.rib.gay</div>    <div style="font-size: 14px; color: #888; margin-top: 8px;">https://fedi.rib.gay/notes/a6xqityngfubsz0f</div>
+    </a>
+</div>
 <p>Eg=h</p>]]></content>
     </entry>
     <entry>
@@ -303,7 +282,12 @@ r3 - ✅...</title>
             
         </author>
         <category term="Test 4" />
-        <content type="html"><![CDATA[<div class="embed link-embed"><a href="https://www.nytimes.com/2025/04/19/business/michael-c-wood-dead.html" target="_blank" rel="noopener noreferrer"><div class="link-title">Mike Wood, Whose LeapFrog Toys Taught a Generation, Dies at 72</div><div class="link-image"><img src="/images/embeds/embed--8900039905279737155.jpg" alt="Mike Wood, Whose LeapFrog Toys Taught a Generation, Dies at 72" /></div><div class="link-description">www.nytimes.com</div><div class="link-url">https://www.nytimes.com/2025/04/19/business/michael-c-wood-dead.html</div></a></div>
+        <content type="html"><![CDATA[<div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin: 16px 0; background: #f9f9f9;">
+    <a href="https://www.nytimes.com/2025/04/19/business/michael-c-wood-dead.html" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">    <div style="font-size: 18px; font-weight: bold; margin-bottom: 8px; color: #333;">Mike Wood, Whose LeapFrog Toys Taught a Generation, Dies at 72</div>    <div style="margin: 8px 0;">
+        <img src="https://amiantos.github.io/images/embeds/embed--8900039905279737155.jpg" alt="Mike Wood, Whose LeapFrog Toys Taught a Generation, Dies at 72" style="max-width: 100%; height: auto; border-radius: 4px;" />
+    </div>    <div style="margin: 8px 0; color: #666; line-height: 1.4;">www.nytimes.com</div>    <div style="font-size: 14px; color: #888; margin-top: 8px;">https://www.nytimes.com/2025/04/19/business/michael-c-wood-dead.html</div>
+    </a>
+</div>
 <p>Sad!</p>]]></content>
     </entry>
     <entry>
@@ -333,7 +317,12 @@ r3 - ✅...</title>
             
             
         </author>
-        <content type="html"><![CDATA[<div class="embed link-embed"><a href="https://github.com/godotengine/godot/pull/105628" target="_blank" rel="noopener noreferrer"><div class="link-title">Native visionOS platform support by rsanchezsaez · Pull Request #105628 · godotengine/godot</div><div class="link-image"><img src="/images/embeds/embed--5913044859714034102.jpg" alt="Native visionOS platform support by rsanchezsaez · Pull Request #105628 · godotengine/godot" /></div><div class="link-description">github.com</div><div class="link-url">https://github.com/godotengine/godot/pull/105628</div></a></div>
+        <content type="html"><![CDATA[<div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin: 16px 0; background: #f9f9f9;">
+    <a href="https://github.com/godotengine/godot/pull/105628" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">    <div style="font-size: 18px; font-weight: bold; margin-bottom: 8px; color: #333;">Native visionOS platform support by rsanchezsaez · Pull Request #105628 · godotengine/godot</div>    <div style="margin: 8px 0;">
+        <img src="https://amiantos.github.io/images/embeds/embed--5913044859714034102.jpg" alt="Native visionOS platform support by rsanchezsaez · Pull Request #105628 · godotengine/godot" style="max-width: 100%; height: auto; border-radius: 4px;" />
+    </div>    <div style="margin: 8px 0; color: #666; line-height: 1.4;">github.com</div>    <div style="font-size: 14px; color: #888; margin-top: 8px;">https://github.com/godotengine/godot/pull/105628</div>
+    </a>
+</div>
 <p>Look at this news story!</p>]]></content>
     </entry>
 </feed>

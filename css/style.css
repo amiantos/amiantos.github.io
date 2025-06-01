@@ -22,13 +22,13 @@
 :root {
     /* Colors */
     --accent-color: #FFA100;
-    --background-color: #1A202C;
-    --text-color: #E2E8F0;
+    --background-color: #EFEFEF;
+    --text-color: #2D3748;
 
     /* Shades */
-    --light-shade: #2D3748;
-    --medium-shade: #4A5568;
-    --dark-shade: #CBD5E0;
+    --light-shade: #DEDEDE;
+    --medium-shade: #A0AEC0;
+    --dark-shade: #4A5568;
 }
 
 * {
